@@ -1,4 +1,4 @@
-# Ultimate Linux Engineering Cheat Sheet
+# Linux Cheat Sheet
 
 **About:** This repository contains a progressively structured, enterprise-grade Linux command and scripting cheat sheet. Extracted from professional reference materials, it guides users from basic file navigation and terminal shortcuts to advanced text processing (`sed`/`awk`/Regex), network diagnostics, package management, disk manipulation, and firewall configuration.
 **Tags:** `#Linux` `#SysAdmin` `#Bash` `#Networking` `#DevOps` `#CheatSheet` `#Regex`
